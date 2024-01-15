@@ -138,53 +138,6 @@ a:hover {
   transform: none;
 }
 
-section{
-  padding-top: 4vh;
-  height: 96vh;
-  margin: 0 10rem;
-  box-sizing: border-box;
-  min-height: fit-content;
-}
-
-.section-container{
-  display: flex;
-}
-
-#profile{
-  display: flex;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* media queries */
 
 @media screen and (max-width: 1200px) {
@@ -195,7 +148,5 @@ section{
     display: flex;
   }
 }
-
-
 
 
